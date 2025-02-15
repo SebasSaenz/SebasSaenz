@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johan Sebastián</h1>
 <h3 align="center">A microbial ecologist diving into the dataverse!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebassaenz&label=Profile%20views&color=0e75b6&style=flat" alt="sebassaenz" /> </p>
-
 - 🔭 I’m currently working on [The Vault](https://sebassaenz.github.io/thevault/)
 
 - 📫 How to reach me **johan.saenzmedina@uni-hohenheim.de**
